@@ -4,13 +4,13 @@
         "vorname": "John",
         "nachname": "Vandrey",
         "bezirk": "Marzahn-Hellersdorf",
-        "abteilung": "Abteilung 10/03"
+        "abteilung": "10/03"
     },
     {
         "id": 2,
-        "vorname": "Anna",
-        "nachname": "Müller",
-        "bezirk": "Pankow",
-        "abteilung": "Abteilung 20/01"
+        "vorname": "Max",
+        "nachname": "Eggert",
+        "bezirk": "Marzahn-Hellersdorf",
+        "abteilung": "10/03"
     }
 ]
