@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "vorname": "John",
+        "nachname": "Vandrey",
+        "bezirk": "Marzahn-Hellersdorf",
+        "abteilung": "Abteilung 10/03"
+    },
+    {
+        "id": 2,
+        "vorname": "Anna",
+        "nachname": "Müller",
+        "bezirk": "Pankow",
+        "abteilung": "Abteilung 20/01"
+    }
+]
